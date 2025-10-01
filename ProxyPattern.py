@@ -28,4 +28,3 @@ image1 = ProxyImage("photo1.jpg")
 image2 = ProxyImage("photo2.jpg")
 
 image1.display()  # Загружает и отображает photo1.jpg
-image2.display()  # Загружает и отображает photo2.jpg
